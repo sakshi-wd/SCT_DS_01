@@ -12,6 +12,7 @@ This project visualizes India's population distribution using a bar chart, group
       25-54 years
       55-64 years
       65+ years
+      
 📂 Files Included:
      -age_distribution.ipynb: Jupyter Notebook that reads the dataset and generates the bar chart using Matplotlib.
      -age_distribution_dataset.csv: Contains sample age group data.
@@ -22,6 +23,7 @@ This project visualizes India's population distribution using a bar chart, group
     -Copy code
     -import pandas as pd
     -import matplotlib.pyplot as plt
+    
 ✅ Conclusion
 In this task, we successfully visualized India's population distribution by agegroups using a bar chart. 
 The plot clearly shows that the majority of the population falls within the 25–54 years age group, 
